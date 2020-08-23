@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from modules import cbpi
 from modules.core.props import Property
 from modules.core.hardware import ActorBase
